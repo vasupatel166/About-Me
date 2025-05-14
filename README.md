@@ -1,6 +1,6 @@
 👋 Hi, I'm Varshil Patel
 
-🌍 Based in Toronto, ON, CA &#127464;&#127462;
+🌍 Based in Toronto, ON, CA
 
 🎓 Completed Post Graduate in Web Development at Conestoga College
 

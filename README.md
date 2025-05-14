@@ -1,3 +1,16 @@
+👋 Hi, I'm Varshil Patel
+
+🌍 Based in Toronto, ON, CA
+
+🎓 Completed Post Graduate in Web Development at Conestoga College
+
+🧑‍💻 Aspiring Full Stack Developer with experience in React.js, Node.js, PHP, and .NET
+
+🚀 Passionate about building responsive web apps and solving real-world problems
+
+💡 Interested in cloud technologies, modern UI/UX, and agile development
+
+📈 Always learning, improving, and collaborating on exciting tech projects
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vasup2305) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasu23_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshil-patel-90392020a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/varshil_p2305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasupatel166@gmail.com) 
